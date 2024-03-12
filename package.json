@@ -1,6 +1,6 @@
 {
   "name": "my-crypto-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "crypto agent",
   "engines": {
     "node": ">=6.11.3"
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/katherin520/Crypto-core.git"
+    "url": "https://github.com/katherin520/crypto-agent.git"
   },
   "keywords": [
     "abvos",

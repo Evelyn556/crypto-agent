@@ -1,4 +1,4 @@
-[https://github.com/Evelyn556/crypto-socket](https://github.com/Evelyn556/crypto-socket)
+[https://github.com/Evelyn556/crypto-agent](https://github.com/Evelyn556/crypto-agent)
 
 # crypto-agent
 

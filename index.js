@@ -2,7 +2,7 @@
  * The nodejs part of abv-agent bundle
  * @module abv-agent
  * build: npm run dist
- * https://github.com/tondy67/abv-agent
+ * https://github.com/Evelyn556/crypto-agent
  */
 "use strict";
 
